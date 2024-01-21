@@ -1,6 +1,4 @@
 // Find how many distinct values can be obtained by the absolute difference consecutive elements
-
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
