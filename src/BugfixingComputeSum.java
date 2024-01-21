@@ -8,7 +8,7 @@ public class BugfixingComputeSum {
     }
     public static int Solution(int[] array){
         int result =0;
-        for(int i=0; i<array.length-1; i++){
+        for(int i=0; i<array.length; i++){
             result+=array[i];
         }
         return result;

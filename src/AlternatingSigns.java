@@ -22,7 +22,7 @@ public class AlternatingSigns {
         int count = 0;
 
         boolean isPositive = true;
-        for(int i =0; i<array.length-1; i++){
+        for(int i =0; i<array.length; i++){
             if(i%2==0){
                 if(isPositive){
                     if(array[i]<0){
