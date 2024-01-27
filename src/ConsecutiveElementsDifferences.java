@@ -7,12 +7,12 @@ public class ConsecutiveElementsDifferences {
         int[] array = {18,2,6,4};
         int n = array.length;
         
-        System.out.println(Solution(array,n));
+        System.out.println(Solution(array));
     }
 
-    public static int Solution(int[] array, int N) {
+    public static int Solution(int[] array) {
         Set<Integer> s = new HashSet<Integer>();
-        for (int i = 0 ; i < N; i++)
+        for (int i = 0 ; i < array.length; i++)
             s.add(Math.abs(array[i]));
         return s.size();
     }
