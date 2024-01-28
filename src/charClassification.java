@@ -1,7 +1,7 @@
 /**Complete an implementation of a function solution, that should return a string describing first character
  * of the given string: "digit" for a digit, "lower" for a lowercase letter, "upper" for an uppercase letter and
  * "other" for other characters. You can assume the characters are ASCII.*/
-public class CharClassification {
+public class charClassification {
     public static void main(String[] args){
         System.out.println(Solution("123"));
         System.out.println(Solution("abc"));

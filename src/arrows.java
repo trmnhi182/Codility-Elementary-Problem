@@ -3,7 +3,7 @@
  Write a function solution that, given a string S denoting the directions of the arrows, returns the minimum number
  of arrows that must be rotated to make them all point in the same direction.
  */
-public class Arrows {
+public class arrows {
     public static void main(String[] args){
         String a = "^vv<v";
         String b = "^^^^";

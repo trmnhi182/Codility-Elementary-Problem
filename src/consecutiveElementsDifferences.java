@@ -2,7 +2,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class ConsecutiveElementsDifferences {
+public class consecutiveElementsDifferences {
     public static void main(String[] args) {
         int[] array = {18,2,6,4};
         int n = array.length;

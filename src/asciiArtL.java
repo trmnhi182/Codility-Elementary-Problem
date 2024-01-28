@@ -6,7 +6,7 @@
  L
  LLLLL
  The function should not return any value.*/
-public class AsciiArtL {
+public class asciiArtL {
     public static void main(String[] args){
 
         Solution(0);

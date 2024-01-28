@@ -3,7 +3,7 @@
 
 import java.util.HashMap;
 
-public class FindRepeatingLetter {
+public class findRepeatingLetter {
 
     public static void main(String[] args){
         System.out.println(findRepeatingLetter("Anything"));

@@ -1,4 +1,4 @@
-public class CaptchaMultiplication {
+public class captchaMultiplication {
     public static void main(String[] args){
        solution(18,"two");
         solution(6,"four");

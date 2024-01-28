@@ -6,7 +6,7 @@
  * 3. Given text = "NETWORK", the function should return "RIXASVO".
  *
  * Reference for formula: https://vi.wikipedia.org/wiki/M%E1%BA%ADt_m%C3%A3_Caesar*/
-public class CaesarCipher4 {
+public class caesarCipher4 {
     public static void main(String[] args){
         String a = "MAN NHI";
         String b = "Bao Khoi";

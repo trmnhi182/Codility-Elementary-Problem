@@ -1,6 +1,4 @@
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 /**Days of the week are represented as three-letter strings ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun").
  * Write a function solution that, given a string S representing the day of the week and an integer K (between
@@ -8,7 +6,7 @@ import java.util.Map;
  *
  * For example, given S = "Wed" and K = 2, the function should return "Fri".
  * Given S = "Sat" and K = 23, the function should return "Mon".*/
-public class DayOfWeek {
+public class dayOfWeek {
     public static void main(String[] args){
         System.out.println(Solution("Mon",18));
         System.out.println(Solution("Wed",0));
