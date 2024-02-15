@@ -1,3 +1,7 @@
+/** Write a function that, given arrays predicted and observed of floats (both of length N), returns the
+ * Root−Mean−Square-Error of these values. For every J, the value predicted[J] corresponds to observed[J].
+ * The result will be accepted if its absolute error is at most 10^4.
+ * */
 public class dataScienceRootMeanSquareError {
     public static void main(String[] args){
         float[] predicted = {4, 25, 0.75f, 11};
